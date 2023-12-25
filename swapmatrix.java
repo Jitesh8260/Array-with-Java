@@ -1,3 +1,21 @@
+/*Java Program to Interchange Elements of First and Last in a Matrix Across Rows
+Input 1: 1 1 5 0
+ 2 3 7 2
+ 8 9 1 3
+ 6 7 8 2
+Output 1: 6 7 8 2
+ 2 3 7 2
+ 8 9 1 3
+ 1 1 5 0
+Input 2: 7 8 9 10
+ 11 13 14 1
+ 15 7 12 22
+ 11 21 30 1
+Output 2: 11 21 30 1
+ 11 13 14 1
+ 15 7 12 22
+ 7 8 9 10 */
+
 import java.util.Scanner;
 
 public class swapmatrix {
