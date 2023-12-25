@@ -1,3 +1,6 @@
+/*Write a java program that will read array of N numbers, and it will remove the duplicate
+numbers (if any) and display the array.*/
+
 import java.util.Scanner;
 
 public class removeduplicate {
