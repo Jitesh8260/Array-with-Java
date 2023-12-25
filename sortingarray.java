@@ -1,3 +1,5 @@
+//Write a java program that will sort an array of N inputted numbers.
+
 import java.util.Scanner;
 public class sortingarray{
 public static void main(String []args) {
