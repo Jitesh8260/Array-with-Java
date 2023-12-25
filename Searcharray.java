@@ -1,4 +1,5 @@
-   import java.util.Scanner;
+//Write a java program that will search a number from an array of 10 numbers
+import java.util.Scanner;
    public class Searcharray{
         public static void main(String []args) {
             int i;
